@@ -1,13 +1,9 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
-
-Description of the app ...
+# 📦 AI-Powered Plant Disease Detection using Google Teachable Machine
+This is an AI-Powered Plant Disease Detection App using Google Teachable Machine
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rm_IS_assignment.streamlit.app/)
 
 ## GitHub Codespaces
 
